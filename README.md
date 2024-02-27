@@ -35,7 +35,8 @@ Let's connect and explore new horizons together!
 
 ## Tools
 
-- Microsoft Teams, Zoom, Discord, Canva, Gmail, Zendesk, Avaya, Hubstaff
+- Microsoft Teams, Zoom, Discord, Canva, GoogleMail, Zendesk, Avaya, Hubstaff, Asana
+- Microsoft Outlook, YahooMail, GeminiGoogle, ChatGPT, Capcut, Adobe Premiere Pro, Adobe Photoshop
 
 ## PC Specification
 
