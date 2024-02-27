@@ -1,5 +1,3 @@
-Marion Justine Cordero
-
 Welcome to my portfolio! This is where I showcase my projects and provide information about myself.
 
 ## About Me
@@ -37,7 +35,5 @@ Let's connect and explore new horizons together!
 
 ## Contact Me
 
-- Email: [Your email address]
-- LinkedIn: [Your LinkedIn profile URL]
-- Website: [Your personal website URL]
-- Twitter: [Your Twitter handle]
+- Email: justinekoucorderogithub@gmail.com
+- LinkedIn: https://www.linkedin.com/in/mariojustcord/
