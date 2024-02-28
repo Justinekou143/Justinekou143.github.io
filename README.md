@@ -35,8 +35,8 @@ Let's connect and explore new horizons together!
 
 ## Tools
 
-- Microsoft Teams, Zoom, Discord, Canva, GoogleMail, Zendesk, Avaya, Hubstaff, Asana
-- Microsoft Outlook, YahooMail, GeminiGoogle, ChatGPT, Capcut, Adobe Premiere Pro, Adobe Photoshop
+- Microsoft Teams, Zoom, Discord, Canva, GoogleMail, Zendesk, Avaya, Hubstaff
+- Microsoft Outlook, YahooMail
 
 ## PC Specification
 
@@ -52,3 +52,7 @@ Let's connect and explore new horizons together!
 
 - Email: justinekoucorderogithub@gmail.com
 - LinkedIn: https://www.linkedin.com/in/mariojustcord/
+
+## Resume
+
+- Link@asjdlkajsdkll.com
