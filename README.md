@@ -46,7 +46,7 @@ Let's connect and explore new horizons together!
 - STORAGE: SAMSUNG 980 PRO SSD 1TB PCIe 4.0 NVMe Gen 4, SAMSUNG 870 EVO SATA SSD 250GB
 
 ## Internet Download and Upload Speed
-<a href="https://www.speedtest.net/result/15940359562" target="_blank">Internet Download and Upload Speed</a>
+- <a href="https://www.speedtest.net/result/15940359562" target="_blank">Internet Download and Upload Speed</a>
 
 
 ## Contact Me
