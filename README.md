@@ -55,4 +55,5 @@ Let's connect and explore new horizons together!
 
 ## Resume
 
-- Link@asjdlkajsdkll.com
+- <a href="https://github.com/Justinekou143/Justinekou143.github.io/blob/4f06fee9850dc04fa7d7bb37c810c1283ba156c3/resume%20test.pdf" target="_blank">View Resume</a>
+
