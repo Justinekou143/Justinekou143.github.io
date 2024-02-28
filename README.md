@@ -36,7 +36,7 @@ Let's connect and explore new horizons together!
 ## Tools
 
 - Microsoft Teams, Zoom, Discord, Canva, GoogleMail, Zendesk, Avaya, Hubstaff
-- Microsoft Outlook, YahooMail
+- Microsoft Outlook, YahooMail, Gorgias, Shopify, AnyDesk
 
 ## PC Specification
 
@@ -53,6 +53,9 @@ Let's connect and explore new horizons together!
 
 - Email: justinekoucorderogithub@gmail.com
 - LinkedIn: https://www.linkedin.com/in/mariojustcord/
+
+## Certifications
+-
 
 ## Resume
 
