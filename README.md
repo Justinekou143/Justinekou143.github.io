@@ -8,7 +8,6 @@
 <a href="https://hubstaff.com/" target="_blank">Hubstaff</a> &nbsp;&nbsp; <a href="https://www.gorgias.com/" target="_blank">Gorgias</a> &nbsp;&nbsp; <a href="https://www.shopify.com/" target="_blank">Shopify</a> &nbsp;&nbsp; <a href="https://anydesk.com/en" target="_blank">AnyDesk</a>
 
 - AnyDesk, Calendly, Grasshopper
-https://www.shopify.com/
 
 ## Contact Me
 
