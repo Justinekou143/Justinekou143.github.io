@@ -38,17 +38,6 @@ Let's connect and explore new horizons together!
 - Microsoft Teams, Zoom, Discord, Canva, GoogleMail, Zendesk, Avaya, Hubstaff
 - Microsoft Outlook, YahooMail, Gorgias, Shopify, AnyDesk
 
-## PC Specification
-
-- PROCESSOR: Ryzen 5 3400g (8 CPUs) 3.7GHz
-- MOTHERBOARD: ASRock B550M Steel Legend
-- RAM: G.SKILL Trident Z RGB (For AMD) 16GB (2 x 8GB) DDR4 3600
-- STORAGE: SAMSUNG 980 PRO SSD 1TB PCIe 4.0 NVMe Gen 4, SAMSUNG 870 EVO SATA SSD 250GB
-
-## Internet Download and Upload Speed
-- <a href="https://www.speedtest.net/result/15940359562" target="_blank">Internet Download and Upload Speed</a>
-
-
 ## Contact Me
 
 - Email: justinekoucorderogithub@gmail.com
