@@ -1,25 +1,12 @@
-Welcome to my portfolio! This is where I showcase my projects and provide information about myself.
+"Hi, I'm Justine Cordero — a Software Engineering student at Philippine Women's College of Davao. With 3+ years in Customer/Technical Support, I specialize in Zendesk and Shopify. Let's elevate your customer experience together."
 
-## About Me
+## "Tools that I have used:
 
-Hello! I'm Marion Justine Cordero a dedicated student specializing in Software Engineering and currently pursuing a Bachelor of Science in Information Technology at Philippine Women's College of Davao. Alongside my studies, I bring over 3 years of valuable experience in Customer/Technical Support Representative roles within various call center companies in the Philippines.
 
-I thrive on challenges and practical experiences, constantly expanding my expertise in both academic and professional realms. Collaboration is key to my approach, and I deeply value inclusivity and diverse perspectives.
+<a href="https://www.microsoft.com/en-us/microsoft-teams/group-chat-software" target="_blank">Microsoft Teams</a>
 
-Throughout my journey, I've embraced opportunities to enhance my skills, tackle real-world problems, and contribute meaningfully to projects. I invite you to explore my achievements, projects, and experiences here to gain insight into my journey and aspirations.
-
-Let's connect and explore new horizons together!
-
-## Skills
-
-- Programming Languages: [List of programming languages]
-- Frameworks & Libraries: [List of frameworks and libraries]
-- Tools & Technologies: [List of tools and technologies]
-
-## Tools
-
-- Microsoft Teams, Zoom, Discord, Canva, GoogleMail, Zendesk, Avaya, Hubstaff
-- Microsoft Outlook, YahooMail, Gorgias, Shopify, AnyDesk
+- Microsoft Teams, Microsoft Outlook, Zoom, Discord, Canva, GoogleMail, Zendesk, Avaya, Hubstaff
+- Yahoo Mail, Gorgias, Shopify, Gorgias, AnyDesk, Calendly, Grasshopper
 
 ## Contact Me
 
@@ -33,3 +20,7 @@ Let's connect and explore new horizons together!
 
 - <a href="https://github.com/Justinekou143/Justinekou143.github.io/blob/4f06fee9850dc04fa7d7bb37c810c1283ba156c3/resume%20test.pdf" target="_blank">View Resume</a>
 
+
+
+
+https://www.microsoft.com/en-us/microsoft-teams/free
