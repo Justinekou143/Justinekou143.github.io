@@ -2,9 +2,12 @@
 
 ## Tools that I have used:
 
-<a href="https://www.microsoft.com/en-us/microsoft-teams/group-chat-software" target="_blank">Microsoft Teams</a> &nbsp;&nbsp; <a href="https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook/" target="_blank">Microsoft Outlook</a>
 
-- Zoom, Discord, Canva, GoogleMail, Zendesk, Avaya, Hubstaff
+&nbsp;&nbsp;
+
+<a href="https://www.microsoft.com/en-us/microsoft-teams/group-chat-software" target="_blank">Microsoft Teams</a> &nbsp;&nbsp; <a href="https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook/" target="_blank">Microsoft Outlook</a> &nbsp;&nbsp; <a href="https://zoom.us/" target="_blank">Zoom</a> &nbsp;&nbsp; <a href="https://discord.com/" target="_blank">Discord</a>
+
+- Canva, GoogleMail, Zendesk, Avaya, Hubstaff
 - Yahoo Mail, Gorgias, Shopify, Gorgias, AnyDesk, Calendly, Grasshopper
 
 ## Contact Me
