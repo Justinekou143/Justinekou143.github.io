@@ -10,23 +10,6 @@ Throughout my journey, I've embraced opportunities to enhance my skills, tackle 
 
 Let's connect and explore new horizons together!
 
-## Projects
-
-### Project 1: [Project Name]
-
-- **Description:** Brief description of the project.
-- **Link:** [Link to project repository or live demo]
-
-### Project 2: [Project Name]
-
-- **Description:** Brief description of the project.
-- **Link:** [Link to project repository or live demo]
-
-### Project 3: [Project Name]
-
-- **Description:** Brief description of the project.
-- **Link:** [Link to project repository or live demo]
-
 ## Skills
 
 - Programming Languages: [List of programming languages]
