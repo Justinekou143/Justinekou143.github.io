@@ -11,8 +11,12 @@
 
 ## Contact Me
 
+
+
 - Email: justinekoucorderogithub@gmail.com
-- LinkedIn: https://www.linkedin.com/in/mariojustcord/
+- <a href="https://www.linkedin.com/in/mariojustcord/" target="_blank">Linkedin</a>
+
+
 
 ## Certifications
 -
