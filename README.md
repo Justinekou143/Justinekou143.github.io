@@ -29,7 +29,7 @@
 
 <!-- Resume link -->
 
-- <a href="TestResume.pdf">Resume</a>
+- <a href="Marion Justine Cordero Resume.pdf">Resume</a>
 
 
 
