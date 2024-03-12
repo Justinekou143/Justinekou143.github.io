@@ -1,4 +1,4 @@
-"Hi, I'm Justine Cordero — a Software Engineering student at Philippine Women's College of Davao. With 3+ years in Customer/Technical Support, I specialize in Zendesk and Shopify. Let's elevate your customer experience together."
+"Hi, I'm Justine Cordero — a Bachelor of Science in Information Technology student at Philippine Women's College of Davao. With 3+ years in Customer/Technical Support, I specialize in Zendesk and Shopify. Let's elevate your customer experience together."
 
 ## Tools that I have used:
 
