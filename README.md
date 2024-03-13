@@ -1,4 +1,3 @@
-<!DOCTYPE HTML>
 <!--
 	Forty by HTML5 UP
 	html5up.net | @ajlkn
@@ -43,7 +42,7 @@
 					<section id="banner" class="major">
 						<div class="inner">
 							<header class="major">
-								<h1>Hi, my name is Justine</h1>
+								
 							</header>
 							<div class="content">
 								<p style="font-size: 50px;">Shopify expert and a Zendesk specialist.</p>
