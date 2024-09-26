@@ -45,7 +45,7 @@
 								
 							</header>
 							<div class="content">
-								<p style="font-size: 50px;">Shopify, Salesforce and a \Zendesk specialist.</p>
+								<p style="font-size: 50px;">Shopify, Salesforce and a Zendesk specialist.</p>
 								<ul class="actions">
 									<li><a href="#one" class="button next scrolly">Get Started</a></li>
 								</ul>
