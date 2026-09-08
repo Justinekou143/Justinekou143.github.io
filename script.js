@@ -1,56 +1,62 @@
 document.getElementById("year").textContent = new Date().getFullYear();
 
-// Keep the public experience section accurate about direct employers,
-// client accounts, work setup, locations, and the current role.
-const experienceCards = document.querySelectorAll("#experience .portfolio-card");
+// Ensure the uploaded portfolio portrait renders correctly in the hero.
+(() => {
+  const visual = document.querySelector(".hero-visual");
+  if (!visual) return;
 
-experienceCards.forEach((card) => {
-  const heading = card.querySelector("h3");
-  const date = card.querySelector(".portfolio-number");
-  const role = card.querySelector("p strong");
+  let frame = visual.querySelector(".portrait-frame");
+  const placeholder = visual.querySelector(".portrait-placeholder");
 
-  if (!heading) return;
-
-  const company = heading.textContent.trim();
-
-  if (company === "Horizons Ventures LLC") {
-    if (date) date.textContent = "FEB 2025 - PRESENT";
-    heading.textContent = "Horizons Ventures LLC";
-    if (role) role.textContent = "Phone Support Assistant • Remote / Work From Home • Part-Time";
+  if (!frame && placeholder) {
+    frame = document.createElement("div");
+    frame.className = "portrait-frame";
+    placeholder.replaceWith(frame);
   }
 
-  if (company === "ViewQwest Singapore") {
-    if (date) date.textContent = "JUN 2024 - JAN 2025";
-    heading.textContent = "ViewQwest Singapore Account";
-    if (role) role.textContent = "Sales Team Leader & Quality Assurance • BPO Company";
+  if (!frame) return;
+
+  let photo = frame.querySelector(".profile-photo");
+  if (!photo) {
+    photo = document.createElement("img");
+    photo.className = "profile-photo";
+    photo.src = "profile.jpg.png?v=2";
+    photo.alt = "Marion Justine Cordero";
+    frame.appendChild(photo);
   }
 
-  if (company === "IPSY") {
-    if (date) date.textContent = "JUN 2023 - MAY 2024";
-    if (role) role.textContent = "Customer Service Representative • eCommerce";
-  }
+  Object.assign(frame.style, {
+    width: "380px",
+    height: "380px",
+    borderRadius: "50%",
+    overflow: "hidden",
+    border: "4px solid #6d5dfc",
+    boxShadow: "0 0 55px rgba(99,102,241,.35), inset 0 0 50px rgba(99,102,241,.15)",
+    background: "#141427",
+    position: "relative"
+  });
 
-  if (company === "TalentPop") {
-    if (date) date.textContent = "DEC 2022 - MAY 2023";
-    heading.textContent = "TalentPop";
-    if (role) role.textContent = "Customer Service Representative • Freelance • Work From Home";
-  }
+  Object.assign(photo.style, {
+    width: "100%",
+    height: "100%",
+    objectFit: "cover",
+    objectPosition: "center top",
+    display: "block"
+  });
 
-  if (company === "T-Mobile") {
-    if (date) date.textContent = "MAY 2022 - APR 2023";
-    heading.textContent = "T-Mobile Account | Alorica";
-    if (role) role.textContent = "Technical Support Representative • BPO • Davao City, Philippines";
-  }
+  const resizePortrait = () => {
+    if (window.innerWidth <= 480) {
+      frame.style.width = "250px";
+      frame.style.height = "250px";
+    } else if (window.innerWidth <= 800) {
+      frame.style.width = "310px";
+      frame.style.height = "310px";
+    } else {
+      frame.style.width = "380px";
+      frame.style.height = "380px";
+    }
+  };
 
-  if (company === "AT&T / Cricket Wireless") {
-    if (date) date.textContent = "DEC 2021 - APR 2022";
-    heading.textContent = "AT&T / Cricket Wireless Account | Concentrix";
-    if (role) role.textContent = "Technical Support Representative • BPO • Davao City, Philippines";
-  }
-
-  if (company === "PayPal") {
-    if (date) date.textContent = "NOV 2020 - DEC 2021";
-    heading.textContent = "PayPal Account | VXI";
-    if (role) role.textContent = "Customer Service Representative • Financial Services • BPO • Davao City, Philippines";
-  }
-});
+  resizePortrait();
+  window.addEventListener("resize", resizePortrait);
+})();
